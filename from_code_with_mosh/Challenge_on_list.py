@@ -9,4 +9,4 @@ print(unique)#[2, 3, 1, 5, 6, 8]
 unique.sort()
 print(unique)#[1, 2, 3, 5, 6, 8]
 unique.reverse()
-print(unique)
+print(unique)#[8, 6, 5, 3, 2, 1]
